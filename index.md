@@ -1,11 +1,11 @@
-﻿# Home
-Name:		MD. JAHANGIR
-Title:		Researcher cum Consultant, Projects of Alternative Medical Care (AMC) of Director General of Health, Mohakhali, Dhaka, Bangladesh
+﻿Researcher cum Consultant, Projects of Alternative Medical Care (AMC) of Director General of Health, Mohakhali, Dhaka, Bangladesh
+
 Email:		prof.mjahangir@yahoo.com
-Description:
+
 Advisor, for Research Management (in field study, Lab analysis, and reporting) which for technical support and management to strengthen the surveillance system in human health.  
-Area of interest:	
+
 CV:   		 link
+
 # Education:
     • Ph.D. in Environmental Science - February 2017
         ◦ Institution: Institute of Environmental Science, University of Rajshahi
@@ -19,10 +19,12 @@ CV:   		 link
         ◦ Institution: Government Swarupkathi College, Sohagdol
     • Secondary School Certificate - October, 1972
         ◦ Institution: Sutiakhathi Union High School, Sutiakathi
+
 # Technical Skills:
     • Lab works with pH meter, specific gravity meter, protein digestion with acids and heat.
     • Lab work to measure molecules of matter analyzing by AAS. 
     • Arsenic analysis in drinking water with Wegteck digital device. 
+
 # Work Experience:
     1. Principal Investigator (PI), Social Sector Management Foundation (SSMF), for the project of “Percentage of Patients taking AMC Services for Female & Child Diseases (Leucorrhea, DUB, Pneumonia, etc.); Homeopathic System of Medicine”, under Alternative Medical Care, of Director General of Health Services, Mohakhali, of Ministry of Health & Family Welfare, Dhaka. <strong> June 2019 - October 2019 </strong>. 
     
